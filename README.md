@@ -1,2 +1,2 @@
-# start_in_ds
+# Start in Data Sience
 Курск "Старт в Data Sience"
